@@ -1,1 +1,23 @@
+Module 1: Intro to Statistics
+A Parameter is an attribute of the population.
+A statistic is an attribute of a sample.
 
+Types of data: Nominal, Ordinal, Interval(No true 0), and ratio(True 0) (https://www.graphpad.com/support/faq/what-is-the-difference-between-ordinal-interval-and-ratio-variables-why-should-i-care/)
+
+Key Types of Statistical Analysis (https://www.intellspot.com/types-statistical-analysis/)
+-- Descriptive:
+    Descriptive statistics do not allow making conclusions. 
+    You can not draw conclusions and make generalizations that extend beyond the data at hand.
+    With descriptive statistics, you can simply describe what is and what the data presents.
+    It only allows you to make summations about the objects or people that you have measured.
+-- Inferential:
+    Inferential statistics go further and it is used to infer conclusions and hypotheses.
+-- Predictive Analytics
+-- Prescriptive Analytics:
+    While descriptive analytics describes what has happened and predictive analytics helps to predict what might happen.
+    Prescriptive statistics aims to find the best options among available choices.
+-- Casual Analysis: To understand the root cause "Why"
+-- Exploratory Data Analysis
+-- Mechanistic Analytics
+
+Module 2: Summarizing Data
